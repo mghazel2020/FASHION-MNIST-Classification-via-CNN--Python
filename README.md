@@ -1,6 +1,6 @@
 # Fashion-MNIST Classification using Convolutional Neural Networks (CNN)
 
-<img src="images/banner-01.jpg" />
+<img src="images/banner-01.jpg" "width" = 500 />
 
 ## 1. Objective
 
