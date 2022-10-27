@@ -263,7 +263,7 @@ x_test<span style="color:#808030; ">.</span>shape<span style="color:#808030; ">:
 * There 10 classes:
    * Each training and test example is assigned to one of the following labels:
    
-<img src="images/Fashion-MNIST-Labels.JPG"/>
+<img src="images/Fashion-MNIST-Labels.JPG" width = "1000"/>
    
 ##### 4.2.3.1. Display the number of classes:
 
@@ -357,7 +357,7 @@ plt<span style="color:#808030; ">.</span>legend<span style="color:#808030; ">(</
 <span style="color:#808030; ">]</span><span style="color:#808030; ">)</span><span style="color:#808030; ">;</span>
 </pre>
 
- <img src="images/10-examples-distribution.png"/>
+ <img src="images/10-examples-distribution.png" width = "1000"/>
  
  #### 42.2.5. Visualize some of the training and test images and their associated targets:
 
@@ -432,7 +432,7 @@ plt<span style="color:#808030; ">.</span>legend<span style="color:#808030; ">(</
 visualize_images_and_labels<span style="color:#808030; ">(</span>num_visualized_images<span style="color:#808030; ">,</span> <span style="color:#008c00; ">1</span><span style="color:#808030; ">)</span>
 </pre>
 
-<img src="images/25-sample-test-images.png"/>
+<img src="images/25-sample-test-images.png" width = "1000"/>
 
 #### 4.2.6. Normalize the training and test images to the interval: [0, 1]:
 
@@ -654,7 +654,7 @@ plt<span style="color:#808030; ">.</span>xlabel<span style="color:#808030; ">(</
 plt<span style="color:#808030; ">.</span>ylabel<span style="color:#808030; ">(</span><span style="color:#0000e6; ">'Accuracy'</span><span style="color:#808030; ">)</span><span style="color:#808030; ">;</span>
 </pre>
 
-<img src="images/accuracy-function.png"/>
+<img src="images/accuracy-function.png" width = "1000"/>
 
 
 #### 4.6.3. Compute the test-data Accuracy:
@@ -772,7 +772,7 @@ seed<span style="color:#808030; ">(</span>random_state_seed<span style="color:#8
     ax<span style="color:#808030; ">.</span>set_title<span style="color:#808030; ">(</span><span style="color:#0000e6; ">'Y = %s, $</span><span style="color:#0f69ff; ">\h</span><span style="color:#0000e6; ">at{Y}$ = %s'</span> <span style="color:#44aadd; ">%</span> <span style="color:#808030; ">(</span><span style="color:#808030; ">(</span>label<span style="color:#808030; ">)</span><span style="color:#808030; ">,</span> <span style="color:#808030; ">(</span>yhat<span style="color:#808030; ">)</span><span style="color:#808030; ">)</span><span style="color:#808030; ">,</span> size <span style="color:#808030; ">=</span> <span style="color:#008c00; ">8</span><span style="color:#808030; ">)</span>
 </pre>
 
-<img src="images/25-mis-classified-images.png"/>
+<img src="images/25-mis-classified-images.png" width = "1000"/>
 
 ### 4.7. Part 7: Display a final message after successful execution completion:
 
