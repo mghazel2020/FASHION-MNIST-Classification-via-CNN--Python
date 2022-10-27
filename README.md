@@ -1,6 +1,6 @@
 # Fashion-MNIST Classification using Convolutional Neural Networks (CNN) in Python
 
-<img src="images/banner-01.jpg" width = "500" />
+<img src="images/banner-01.jpg" width = "1000" />
 
 ## 1. Objective
 
