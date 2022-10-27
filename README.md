@@ -34,7 +34,7 @@ Sample images from the MNIST data set are illustrated next:
   * There are significant variations between the different types of clothing articles
   * There are significant variations between different examples of the same clothing article class.
   
-<img src="images/fashion-mnist-sprite.png"/>
+<img src="images/fashion-mnist-sprite.png" width = "1000"/>
 
 ## 4. Development
 
