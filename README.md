@@ -813,10 +813,10 @@ Program executed successfully on<span style="color:#808030; ">:</span> <span sty
 
 ## 7. References
 
-1. Fashion-MNIST. Fashion-MNIST. Retrieved from: https://github.com/zalandoresearch/fashion-mnist. (April 6th, 2021). 
-2. Jason Brownlee. Deep Learning CNN for Fashion-MNIST Clothing Classification. Retrieved from: https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-fashion-mnist-clothing-classification/ (April 6th, 2021). 
-3. Manish Bhobé. Classifying Fashion with a Keras CNN (achieving 94% accuracy) — Part 1. Retrieved from: https://medium.com/@mjbhobe/classifying-fashion-with-a-keras-cnn-achieving-94-accuracy-part-1-1ffcb7e5f61a (April 6th, 2021). 
-4. Gabriel Preda. CNN with Tensorflow|Keras for Fashion MNIST. Retrieved from: https://www.kaggle.com/gpreda/cnn-with-tensorflow-keras-for-fashion-mnist (April 6th, 2021). 
-5. Adrian Rosebrock. Fashion MNIST with Keras and Deep Learning. Retrieved from: https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/ (April 6th, 2021). 
-6. Deepak Singh. Fashion-MNIST using Deep Learning with TensorFlow Keras. Retrieved from: https://cloudxlab.com/blog/fashion-mnist-using-deep-learning-with-tensorflow-keras/ (April 6th, 2021). 
-7. Yue Zhang. Evaluation of CNN Models with Fashion MNIST Data. Retrieved from: https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1402&context=creativecomponents (April 6th, 2021). 
+1. Fashion-MNIST. Fashion-MNIST. Retrieved from: https://github.com/zalandoresearch/fashion-mnist. 
+2. Jason Brownlee. Deep Learning CNN for Fashion-MNIST Clothing Classification. Retrieved from: https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-fashion-mnist-clothing-classification/. 
+3. Manish Bhobé. Classifying Fashion with a Keras CNN (achieving 94% accuracy) — Part 1. Retrieved from: https://medium.com/@mjbhobe/classifying-fashion-with-a-keras-cnn-achieving-94-accuracy-part-1-1ffcb7e5f61a. 
+4. Gabriel Preda. CNN with Tensorflow|Keras for Fashion MNIST. Retrieved from: https://www.kaggle.com/gpreda/cnn-with-tensorflow-keras-for-fashion-mnist. 
+5. Adrian Rosebrock. Fashion MNIST with Keras and Deep Learning. Retrieved from: https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/. 
+6. Deepak Singh. Fashion-MNIST using Deep Learning with TensorFlow Keras. Retrieved from: https://cloudxlab.com/blog/fashion-mnist-using-deep-learning-with-tensorflow-keras/. 
+7. Yue Zhang. Evaluation of CNN Models with Fashion MNIST Data. Retrieved from: https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1402&context=creativecomponents. 
