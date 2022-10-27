@@ -263,7 +263,7 @@ x_test<span style="color:#808030; ">.</span>shape<span style="color:#808030; ">:
 * There 10 classes:
    * Each training and test example is assigned to one of the following labels:
    
-<img src="images/Fashion-MNIST-Labels.JPG" width = "1000"/>
+<img src="images/Fashion-MNIST-Labels.JPG" width = "500"/>
    
 ##### 4.2.3.1. Display the number of classes:
 
@@ -424,7 +424,7 @@ plt<span style="color:#808030; ">.</span>legend<span style="color:#808030; ">(</
 
 ##### 4.2.5.1. Visualize some of the training images and their associated targets:
 
-<img src="images/25-sample-train-images.png"/>
+<img src="images/25-sample-train-images.png" width = "1000"/>
 
 ##### 4.2.5.2. Visualize some of the test images and their associated targets:
 
@@ -639,7 +639,7 @@ plt<span style="color:#808030; ">.</span>xlabel<span style="color:#808030; ">(</
 plt<span style="color:#808030; ">.</span>ylabel<span style="color:#808030; ">(</span><span style="color:#0000e6; ">'Loss'</span><span style="color:#808030; ">)</span><span style="color:#808030; ">;</span>
 </pre>
 
-<img src="images/loss-function.png"/>
+<img src="images/loss-function.png" width = "1000"/>
 
 ### 4.6.2. Accuracy:
 
@@ -733,7 +733,7 @@ plot_confusion_matrix<span style="color:#808030; ">(</span>cm<span style="color:
 </pre>
 
 
-<img src="images/confusion-matrix.JPG"/>
+<img src="images/confusion-matrix.JPG" width = "1000"/>
 
 #### 4.6.5. Examine some of the misclassified digits:
 
